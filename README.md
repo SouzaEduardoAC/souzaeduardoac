@@ -18,8 +18,8 @@ Currently working on creating a product/company of my own. @martial-arts-coolabs
  * :nerd_face: [Blog](http://souzaeduardoac.github.io/blog)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.souzaeduardoac.vercel.app/api?username=souzaeduardoac&hide=issues&count_private=true&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.souzaeduardoac.vercel.app/api?username=souzaeduardoac&hide=issues&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.souzaeduardoac.vercel.app/api/top-langs/?username=souzaeduardoac&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.souzaeduardoac.vercel.app/api/top-langs/?username=souzaeduardoac&layout=compact" />
 </a>
