@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Eduardo. 👋 
 
-<!--
-**SouzaEduardoAC/souzaeduardoac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently work at HBSIS | Ambev at WMS system
 
-Here are some ideas to get you started:
+# Where to find me
+ * Twitter
+ * Instagram
+ * LinkedIn
+ * WebSite
+ * Blog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=souzaeduardoac&hide=issues&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzaeduardoac&layout=compact&theme=dark" />
+</a>
