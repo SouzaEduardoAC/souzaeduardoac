@@ -17,4 +17,4 @@ I currently work at HBSIS | Ambev at WMS system
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzaeduardoac&layout=compact&theme=dark" />
 </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=souzaeduadoac)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=souzaeduardoac)](https://github.com/anuraghazra/github-readme-stats)
