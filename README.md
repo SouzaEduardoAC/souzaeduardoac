@@ -23,4 +23,3 @@ Currently working on creating a product/company of my own. @martial-arts-coolabs
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.souzaeduardoac.vercel.app/api/top-langs/?username=souzaeduardoac&layout=compact&theme=dark" />
 </a>
-
