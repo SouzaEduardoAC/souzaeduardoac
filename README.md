@@ -3,11 +3,11 @@
 I currently work at HBSIS | Ambev at WMS system
 
 # Where to find me
- * Twitter
- * Instagram
- * LinkedIn
- * WebSite
- * Blog
+ * [Twitter](https://twitter.com/souzaeduardoac)
+ * [Instagram](https://www.instagram.com/souzaeduardoac/)
+ * [LinkedIn](https://www.linkedin.com/in/souzaeduardoac/)
+ * [WebSite](http://souzaeduardoac.github.io/)
+ * [Blog](http://souzaeduardoac.github.io/blog)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
