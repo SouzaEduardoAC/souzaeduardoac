@@ -1,6 +1,6 @@
 ### Hi there, :wave:
 
-My name is Eduardo and I'm a senior developer engineer from Brazil, currently working at HBSIS | Ambev.
+My name is Eduardo and I'm a senior developer engineer from Brazil, currently working at Ambev Tech.
 
 Aside from coding, I write about everything I study or work with at my [blog](http://souzaeduardoac.github.io/blog).
 
