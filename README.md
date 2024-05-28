@@ -14,3 +14,5 @@ Currently working on creating a product/company of my own. @martial-arts-coolabs
  * :smiley: [Twitter](https://twitter.com/souzaeduardoac)
  * :sunglasses: [Instagram](https://www.instagram.com/souzaeduardoac/)
  * :briefcase: [LinkedIn](https://www.linkedin.com/in/souzaeduardoac/)
+ * 
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouzaEduardoAC&show_icons=true&theme=transparent)
